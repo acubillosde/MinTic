@@ -1,6 +1,6 @@
 course_id = 'UNAL-Herramientas-Visualizacion'
 github_repo = 'acubillosde/%s'%course_id
-zip_file_url="https://github.com/%s/archive/master.zip"%github_repo
+zip_file_url="https://github.com/%s/archive/main.zip"%github_repo
 
 def get_last_modif_date(localdir):
     try:
@@ -17,7 +17,7 @@ import requests, zipfile, io, os, shutil
 def init(force_download=False):
     if force_download or not os.path.exists("local"):
         print("replicating local resources")
-        dirname = course_id+"-master/"
+        dirname = course_id+"-main/"
         if os.path.exists(dirname):
             shutil.rmtree(dirname)
         r = requests.get(zip_file_url)

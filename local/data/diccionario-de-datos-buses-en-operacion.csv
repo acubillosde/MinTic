@@ -1,0 +1,13 @@
+Campo ;Descripción
+Vehículo;Identificador único del Vehículo
+Etiqueta;Etiqueta del vehículo señalética
+Matricula;Placa o Matricula
+Tipo Vehículo;Tipo de vehículo
+Tipo Servicio;Tipo de servicio que opera el vehículo
+Nivel Emisión ;Nivel de emisión del vehículo, (<) A EURO IV Menor a Euro IV
+Marca;Marca de marca del vehículo
+Accesible;Mecanismo de accesibilidad para personas discapacitadas
+Operador;Concesionario de operación que opera el vehículo
+Modelo;Modelo del vehículo
+Zona;Zona a la que pertenece el vehículo
+Concesión;Concesión a la que pertenece el vehículo

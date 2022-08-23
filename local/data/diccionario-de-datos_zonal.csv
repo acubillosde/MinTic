@@ -1,9 +1,0 @@
-﻿Campo ;Descripción 
-Línea;Identificador de la Línea
-Linea_Comercial;Nombre comercial de la línea
-Ruta;Identificador del trazado de la línea 
-Nombre_Ruta;Nombre del trazado de la línea
-StrInstante;Hora en la que se debe realizar el despacho formato 24 horas
-Nodo;Identificador de la parada desde la cual se debe realizar el despacho
-Parada;Nombre de la parada
-Tipo_Servicio;Nombre del tipo de servicio 

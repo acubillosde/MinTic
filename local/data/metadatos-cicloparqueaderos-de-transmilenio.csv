@@ -1,7 +1,0 @@
-Cicloparqueadero;Nombre de la estación o portal del sistema troncal (TransMilenio ) donde se encuentra ubicado el cicloparqueadero;;;;;
-Tipo de infraestructura;Especifica si el cicloparqueadero pertenece a una estación o portal;;;;;
-Troncal de TransMilenio;Especifica la troncal a la que pertenece la estación o portal donde se encuentra el parqueadero;;;;;
-Promedio Hábil;Contiene las entradas promedio de las bicicletas al cicloparqueadero en días hábiles;;;;;
-Promedio Sábado;Contiene las entradas promedio de las bicicletas al cicloparqueadero los sábados ;;;;;
-Promedio Domingos y festivos;Contiene las entradas promedio de las bicicletas al cicloparqueadero los domingos o festivos;;;;;
-Cupos;Cupos con los que cuenta cada cicloparqueadero para el estacionamiento de las bicicletas;;;;;

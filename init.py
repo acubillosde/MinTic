@@ -1,4 +1,4 @@
-course_id = 'UNAL-Herramientas-Visualizacion'
+course_id = 'MinTic'
 github_repo = 'acubillosde/%s'%course_id
 zip_file_url="https://github.com/%s/archive/main.zip"%github_repo
 
